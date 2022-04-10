@@ -1,0 +1,3 @@
+beekillcount	6
+maxbeecount	6
+maxgameplay	10
